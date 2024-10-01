@@ -1,0 +1,8 @@
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.AssemblyInfoInputs.cache
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.AssemblyInfo.cs
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.RazorAssemblyInfo.cache
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.RazorAssemblyInfo.cs
+C:\Users\sugar\Desktop\I2I\l2l.WebUI\obj\Debug\net8.0\l2l.WebUI.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.AssemblyInfoInputs.cache
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.AssemblyInfo.cs
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.csproj.CoreCompileInputs.cache
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.sourcelink.json
+C:\Users\sugar\Desktop\I2I\l2l.Data\bin\Debug\net8.0\l2l.Data.deps.json
+C:\Users\sugar\Desktop\I2I\l2l.Data\bin\Debug\net8.0\l2l.Data.dll
+C:\Users\sugar\Desktop\I2I\l2l.Data\bin\Debug\net8.0\l2l.Data.pdb
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.csproj.AssemblyReference.cache
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.dll
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\refint\l2l.Data.dll
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.pdb
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\ref\l2l.Data.dll
+C:\Users\sugar\Desktop\I2I\l2l.Data\bin\Debug\net8.0\l2l.Data.runtimeconfig.json
+C:\Users\sugar\Desktop\I2I\l2l.Data\obj\Debug\net8.0\l2l.Data.genruntimeconfig.cache
